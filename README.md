@@ -1,0 +1,16 @@
+# PONG 2020
+
+This is a tiny pong for my son.
+
+May everyone have fun with it.
+
+You may download the [https://github.com/maxdoom-com/c64-pong2020/raw/main/pong2020.prg](pong2020.prg) directly.
+
+To compile the code for yourself you will need an installation of cc65.
+
+And this is how it looks like:
+
+![docs/screeny-1.png](docs/screeny-1.png)
+
+![docs/screeny-2.png](docs/screeny-2.png)
+
